@@ -1,0 +1,9 @@
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\Фоновые\Фоновая_6_1\bin\Debug\Фоновая_6_1.exe.config
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\Фоновые\Фоновая_6_1\bin\Debug\Фоновая_6_1.exe
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\Фоновые\Фоновая_6_1\bin\Debug\Фоновая_6_1.pdb
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\Фоновые\Фоновая_6_1\obj\Debug\Фоновая_6_1.csprojAssemblyReference.cache
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\Фоновые\Фоновая_6_1\obj\Debug\Фоновая_6_1.BtnForm.resources
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\Фоновые\Фоновая_6_1\obj\Debug\Фоновая_6_1.Properties.Resources.resources
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\Фоновые\Фоновая_6_1\obj\Debug\Фоновая_6_1.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\Фоновые\Фоновая_6_1\obj\Debug\Фоновая_6_1.exe
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\Фоновые\Фоновая_6_1\obj\Debug\Фоновая_6_1.pdb
